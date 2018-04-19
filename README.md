@@ -1,2 +1,2 @@
 # playlx
-练习用
+练习github用
